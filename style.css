@@ -54,10 +54,7 @@ section{
     background: #ebebeb;
     line-height: 200%;
     float: left;
-    margin-bottom: 20px;
-    margin-top: 10px;
-    margin-left: 10px;
-    margin-right: 0px;
+    margin: 10px 0px 20px 10px;
     position: relative;
 }
 
@@ -74,32 +71,28 @@ article{
     color: #ebebeb;
     padding: 20px;
     position: relative;
-    margin-top: 20px;
-    margin-bottom: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
-    float: unset;  
+    margin: 20px 0px 0px 0px;     
 }
 
 .headingSection{
     background:#ebebeb;
     color:#777;
-    padding: 10px;
+    padding: 8px;
     float: unset;
     position: relative;
     border: 1px solid;
-    width: 300px;
+    width: 420px;
     margin: auto;
-    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .paraSection{
     background:#ebebeb;
     color:#777;
-    padding: 10px;
+    padding: 8px;
     float: unset;
     position: relative;
     border: 1px solid;
-    width: 300px;
+    width: 420px;
     margin: auto;
 } 
