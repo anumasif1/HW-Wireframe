@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     font-family: Arial, Helvetica, sans-serif;
     color: #777;
@@ -79,4 +80,84 @@ article{
     clear: both;
     margin: auto;
   
+=======
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+    text-align: center;
+}
+header, nav, footer{
+    width:100%;
+    margin:10px;
+    background: #ebebeb;
+    text-align: center;
+    padding: 20px;
+}
+footer{
+    overflow: auto;
+    clear: both;
+}
+section{
+    padding: 20px;
+    width: 495px;
+    background: #ebebeb;
+    float: left;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+    position: relative;
+    
+  
+}
+
+aside{
+    padding: 20px;
+    width: 30%;
+    background: #ebebeb;
+    float: left;
+    height: 226px;
+    margin-left: 10px;
+    position: relative;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+article{
+    background:#777;
+    color: #ebebeb;
+    padding: 20px;
+    position: relative;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: unset;  
+    
+}
+.headingSection{
+    background:#ebebeb;
+    color:#777;
+    float: unset;
+    position: relative;
+    border: 1px solid;
+    width: 200px;
+    overflow:auto;
+    clear: both;
+    margin: auto;
+}
+.paraSection{
+    background:#ebebeb;
+    color:#777;
+    float: unset;
+    position: relative;
+    border: 1px solid;
+    width: 200px;
+    overflow:auto;
+    clear: both;
+    margin: auto;
+  
+>>>>>>> 26861c3b01249b604bc7e89b81cc66e379e04a1e
 }
